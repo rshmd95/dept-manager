@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "Système de gestion des dettes et du stock",
+    "dashboard": "Tableau de bord",
+    "search": "Recherche",
+    "actions": "Actions",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "create": "Ajouter",
+    "empty": "Aucune donnée",
+    "loading": "Chargement...",
+    "language": "Langue",
+    "confirmDelete": "Confirmer la suppression ?"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "debts": "Dettes",
+    "customers": "Clients",
+    "vendors": "Fournisseurs",
+    "products": "Produits",
+    "categories": "Catégories"
+  },
+  "status": {
+    "PAID": "Payée",
+    "UNPAID": "Impayée",
+    "PARTIAL": "Partielle"
+  },
+  "dashboard": {
+    "totalDebts": "Total des dettes",
+    "unpaidAmount": "Montant impayé",
+    "paidVsUnpaid": "Ratio payé/non payé",
+    "totalCustomers": "Total clients",
+    "totalVendors": "Total fournisseurs",
+    "topCustomers": "Clients les plus endettés",
+    "productsPerCategory": "Produits par catégorie"
+  },
+  "customers": {
+    "title": "Clients",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "totalDebts": "Total dettes",
+    "addCustomer": "Ajouter un client",
+    "editCustomer": "Modifier un client",
+    "searchPlaceholder": "Rechercher par nom"
+  },
+  "debts": {
+    "title": "Dettes",
+    "amount": "Montant",
+    "debtDate": "Date de dette",
+    "dueDate": "Date d'échéance",
+    "notes": "Notes",
+    "addDebt": "Ajouter une dette",
+    "filterStatus": "Filtrer par statut"
+  },
+  "vendors": {
+    "title": "Fournisseurs",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "company": "Société",
+    "notes": "Notes"
+  },
+  "products": {
+    "title": "Produits",
+    "name": "Nom",
+    "price": "Prix",
+    "quantity": "Quantité",
+    "vendor": "Fournisseur",
+    "category": "Catégorie"
+  },
+  "categories": {
+    "title": "Catégories",
+    "name": "Nom",
+    "description": "Description"
+  },
+  "validation": {
+    "required": "Ce champ est requis",
+    "invalidPhone": "Numéro invalide",
+    "invalidAmount": "Montant invalide"
+  },
+  "toast": {
+    "created": "Créé avec succès",
+    "updated": "Mis à jour avec succès",
+    "deleted": "Supprimé avec succès",
+    "error": "Une erreur inattendue est survenue"
+  }
+}

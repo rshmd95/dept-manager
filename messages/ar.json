@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "نظام إدارة الديون والمخزون",
+    "dashboard": "لوحة التحكم",
+    "search": "بحث",
+    "actions": "الإجراءات",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "create": "إضافة",
+    "empty": "لا توجد بيانات",
+    "loading": "جارٍ التحميل...",
+    "language": "اللغة",
+    "confirmDelete": "هل أنت متأكد من الحذف؟"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "debts": "الديون",
+    "customers": "العملاء",
+    "vendors": "الموردون",
+    "products": "المنتجات",
+    "categories": "التصنيفات"
+  },
+  "status": {
+    "PAID": "مسدد",
+    "UNPAID": "غير مسدد",
+    "PARTIAL": "جزئي"
+  },
+  "dashboard": {
+    "totalDebts": "إجمالي الديون",
+    "unpaidAmount": "إجمالي المبلغ غير المسدد",
+    "paidVsUnpaid": "نسبة المسدد وغير المسدد",
+    "totalCustomers": "عدد العملاء",
+    "totalVendors": "عدد الموردين",
+    "topCustomers": "أكثر العملاء مديونية",
+    "productsPerCategory": "المنتجات حسب التصنيف"
+  },
+  "customers": {
+    "title": "العملاء",
+    "name": "الاسم",
+    "phone": "رقم الهاتف",
+    "address": "العنوان",
+    "totalDebts": "إجمالي الديون",
+    "addCustomer": "إضافة عميل",
+    "editCustomer": "تعديل عميل",
+    "searchPlaceholder": "ابحث باسم العميل"
+  },
+  "debts": {
+    "title": "الديون",
+    "amount": "المبلغ",
+    "debtDate": "تاريخ الدين",
+    "dueDate": "تاريخ الاستحقاق",
+    "notes": "ملاحظات",
+    "addDebt": "إضافة دين",
+    "filterStatus": "تصفية الحالة"
+  },
+  "vendors": {
+    "title": "الموردون",
+    "name": "الاسم",
+    "phone": "الهاتف",
+    "company": "الشركة",
+    "notes": "ملاحظات"
+  },
+  "products": {
+    "title": "المنتجات",
+    "name": "الاسم",
+    "price": "السعر",
+    "quantity": "الكمية",
+    "vendor": "المورد",
+    "category": "التصنيف"
+  },
+  "categories": {
+    "title": "التصنيفات",
+    "name": "الاسم",
+    "description": "الوصف"
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "invalidPhone": "رقم هاتف غير صالح",
+    "invalidAmount": "قيمة غير صالحة"
+  },
+  "toast": {
+    "created": "تمت الإضافة بنجاح",
+    "updated": "تم التحديث بنجاح",
+    "deleted": "تم الحذف بنجاح",
+    "error": "حدث خطأ غير متوقع"
+  }
+}
